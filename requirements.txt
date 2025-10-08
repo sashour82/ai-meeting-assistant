@@ -3,7 +3,8 @@ openai>=1.0.0
 python-dotenv>=1.0.0
 
 # Web interface
-gradio>=4.0.0
+gradio>=4.44.1
+
 
 # LangChain dependencies
 langchain>=0.3.0
