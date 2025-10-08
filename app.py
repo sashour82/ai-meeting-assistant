@@ -32,7 +32,7 @@ def main():
     try:
         logger.info("Starting AI Meeting Assistant...")
         interface = MeetingAssistantInterface()
-        interface.launch()
+        interface.launch(share=True)
     except KeyboardInterrupt:
         logger.info("Application stopped by user")
     except Exception as e:
