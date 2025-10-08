@@ -1,0 +1,21 @@
+# Core dependencies
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# Web interface
+gradio>=4.0.0
+
+# LangChain dependencies
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-openai>=0.3.0
+
+# Optional: IBM Watson support
+langchain-ibm>=0.3.0
+
+# Development dependencies (optional)
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.0.0
