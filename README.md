@@ -4,8 +4,8 @@ emoji: 🤖
 colorFrom: blue
 colorTo: green
 sdk: gradio
-sdk_version: "3.40.0"  # أو النسخة التي تستخدمها
-app_file: app.py         # إذا قررت إعادة تسمية main.py إلى app.py
+sdk_version: 5.49.1
+app_file: app.py
 pinned: false
 ---
 
